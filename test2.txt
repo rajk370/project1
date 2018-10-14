@@ -1,3 +1,7 @@
 My firt change in the file2
+<<<<<<< HEAD
 
 I have changed in file2
+=======
+i have modified in file2
+>>>>>>> 7416272f7964f21ca78196fc9f3bfe57ddc1206c
